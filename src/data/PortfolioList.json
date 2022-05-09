@@ -1,0 +1,64 @@
+{
+    "portfolioList" : [
+        {
+            "image": "images/portfolio/bird.jpg",
+            "alt": "Norse Bird"
+        },
+        {
+            "image": "images/portfolio/book.jpg",
+            "alt": "Library Inspired"
+        },
+        {
+            "image": "images/portfolio/bracelet.jpg",
+            "alt": "Memorial Bracelet"
+        },
+        {
+            "image": "images/portfolio/courage.jpg",
+            "alt": "Courage The Cowardly Dog"
+        },
+        {
+            "image": "images/portfolio/dreamcatcher.jpg",
+            "alt": "Dreamcatcher Rework"
+        },
+        {
+            "image": "images/portfolio/eagle.jpg",
+            "alt": "Eagle With American Flag"
+        },
+        {
+            "image": "images/portfolio/fleetwood.jpg",
+            "alt": "Fleetwood Mac"
+        },
+        {
+            "image": "images/portfolio/itiswell.jpg",
+            "alt": "It Is Well Text"
+        },
+        {
+            "image": "images/portfolio/moon.jpg",
+            "alt": "Flower and Moon"
+        },
+        {
+            "image": "images/portfolio/mulan.jpg",
+            "alt": "Mulan"
+        },
+        {
+            "image": "images/portfolio/skull.jpg",
+            "alt": "Native American Skull"
+        },
+        {
+            "image": "images/portfolio/starwars.jpg",
+            "alt": "Lightsabers"
+        },
+        {
+            "image": "images/portfolio/triforce.jpg",
+            "alt": "Triforce"
+        },
+        {
+            "image": "images/portfolio/turtle.jpg",
+            "alt": "Turtle and Frog"
+        },
+        {
+            "image": "images/portfolio/twilightzone.jpg",
+            "alt": "The Twilight Zone"
+        }
+    ]
+}
