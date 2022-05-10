@@ -8,10 +8,12 @@ import Services from './pages/Services';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Footer from './pages/Footer';
+import MobileNav from './pages/MobileNav';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <MobileNav />
     <Home />
     <Nav />
     <About />

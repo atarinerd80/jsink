@@ -2,6 +2,16 @@
   Navigation
 ==================================================================*/
 
+@media(max-width: 767px) {
+  .no-display-small {
+    display: none !important;
+  }
+}
+
+.mobile-nav {
+  background: #353b43;
+}
+
 .navigation {
   background-color: #1d2024;
   width: 100%;
@@ -10,6 +20,7 @@
   padding:10px;
   position: sticky;
   top: 0;
+
   .logo {
     padding: 0;
     height: auto;

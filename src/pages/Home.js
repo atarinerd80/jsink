@@ -7,7 +7,7 @@ export class Home extends React.Component {
                 <section className="hero-area overlay">
                     <div className="block">
                         <div className="row">
-                            <div className="col-lg-4 offset-lg-4">
+                            <div className="col-xs-8 offset-xs-2 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-4 offset-lg-4 ">
                                 <img className="header-image" src="images/logo.png" />
                             </div>
                         </div>

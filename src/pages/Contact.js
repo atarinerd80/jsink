@@ -21,7 +21,7 @@ export class Contact extends React.Component {
                                 <h6>Facebook</h6>
                                 <span><a href="https://www.facebook.com/jason.slagle.967" target="_blank">Jason Slagle</a></span><br /><br />
                                 <h6>Instagram</h6>
-                                <span><a href="https://www.instagram.com/jsink_/?hl=en" target="_blank">JS Ink</a></span>
+                                <span><a href="https://www.instagram.com/jsink_/?hl=en" target="_blank">JS Ink</a></span><br /><br />
                             </div>
                             <div className="col-lg-6 map-container">
                                 <Map />
