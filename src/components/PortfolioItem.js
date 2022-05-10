@@ -4,10 +4,9 @@ export class PortfolioItem extends React.Component {
     render() {
         return (
             <>
-                <div className="filtr-item col-lg-4">
-                    <div className="portfolio-block">
-                        <img className="img-responsive" src={this.props.item.image} alt={this.props.item.alt} />
-                    </div>
+                <div>
+                    <img src={this.props.item.image} alt={this.props.item.alt}/>
+                    <p className="legend">{this.props.item.alt}</p>
                 </div>
             </>
         );

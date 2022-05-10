@@ -16,7 +16,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-globe"></i>
                             </div>
-                            <h3>WordPress Theme</h3>
+                            <h3>Classic Americana</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>
@@ -25,7 +25,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-ion-laptop"></i>
                             </div>
-                            <h3>Responsive Design</h3>
+                            <h3>Black &amp; Grey</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>
@@ -34,7 +34,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-genius"></i>
                             </div>
-                            <h3>Media &amp; Advertisement</h3>
+                            <h3>Realism</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>
@@ -43,7 +43,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-dial"></i>
                             </div>
-                            <h3>Graphic Design</h3>
+                            <h3>Blackwork</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>
@@ -52,7 +52,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-target3"></i>
                             </div>
-                            <h3>Apps Development</h3>
+                            <h3>Biomechanical</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>
@@ -61,7 +61,7 @@ export class Services extends React.Component {
                             <div className="service-icon text-center">
                                 <i className="tf-lifesaver"></i>
                             </div>
-                            <h3>Networking</h3>
+                            <h3>Geometric</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.</p>
                             </div>
                         </article>

@@ -15,7 +15,6 @@ export class Nav extends React.Component {
                                 <li><a data-scroll href="#about">About Us</a></li>
                                 <li><a data-scroll href="#services">Services</a></li>
                                 <li><a data-scroll href="#portfolio">Portfolio</a></li>
-                                <li><a data-scroll href="#blog">Latest Posts</a></li>
                                 <li><a data-scroll href="#contact-us">Contact</a></li>
                             </ul>
                         </nav>

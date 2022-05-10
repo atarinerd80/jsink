@@ -6,7 +6,6 @@ import Nav from './pages/Nav';
 import About from './pages/About';
 import Services from './pages/Services';
 import Portfolio from './pages/Portfolio';
-import Posts from './pages/Posts';
 import Contact from './pages/Contact';
 import Footer from './pages/Footer';
 
@@ -18,7 +17,6 @@ root.render(
       <About />
       <Services />
       <Portfolio />
-      <Posts />
       <Contact />
       <Footer />
     </div>
