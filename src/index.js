@@ -12,14 +12,12 @@ import Footer from './pages/Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Home />
     <Nav />
-    <div className="content bg-dark">
-      <Home />
-      <About />
-      <Services />
-      <Portfolio />
-      <Contact />
-      <Footer />
-    </div>
+    <About />
+    <Services />
+    <Portfolio />
+    <Contact />
+    <Footer />
   </React.StrictMode>
 );

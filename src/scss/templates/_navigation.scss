@@ -8,7 +8,8 @@
   z-index: 99;
   margin-bottom: 0;
   padding:10px;
-  position: fixed;
+  position: sticky;
+  top: 0;
   .logo {
     padding: 0;
     height: auto;

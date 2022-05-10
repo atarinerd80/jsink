@@ -6,9 +6,12 @@ export class Home extends React.Component {
             <>
                 <section className="hero-area overlay">
                     <div className="block">
-                        <h1>Experience the new reality</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!</p>
-                        <a href="#services" className="btn btn-transparent">Explore Us</a>
+                        <div className="row">
+                            <div className="col-lg-4 offset-lg-4">
+                                <img className="header-image" src="images/logo.png" />
+                            </div>
+                        </div>
+                        <a href="#about" className="btn btn-transparent">Explore Us</a>
                     </div>
                 </section>
             </> 
