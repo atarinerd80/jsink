@@ -20,7 +20,7 @@ export class Portfolio extends React.Component {
                         </div>
                         <div className="row">
                             <div className="col-lg-6 offset-lg-3">
-                                <Carousel autoPlay="true" infiniteLoop="true">
+                                <Carousel autoPlay={true} infiniteLoop={true} showThumbs={false}>
                                     {PorfolioList.portfolioList.map((item, i) => (
                                         <PortfolioItem key={'item_' + i} item={item} />
                                     ))}

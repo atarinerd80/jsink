@@ -6,7 +6,7 @@ export class Nav extends React.Component {
             <>
                 <header id="navigation" className="navbar navigation">
                     <div className="container">
-                        <a class="navbar-brand" href="#">
+                        <a className="navbar-brand" href="#">
                         <img className="nav-logo" src="images/logo.png"/>
                         </a>
                         <nav className="navbar-right">
