@@ -4,52 +4,13 @@ export class About extends React.Component {
     render() {
         return (
             <>
-                <section className="bg-one about section">
-                    <div className="container">
+                <section className="section about-2 padding-0 bg-dark" id="about">
+                    <div className="container-fluid">
                         <div className="row">
                             <div className="title text-center wow fadeIn" data-wow-duration="1500ms" >
                                 <h2>About <span className="color">Us</span> </h2>
                                 <div className="border"></div>
                             </div>
-                            <div className="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms" >
-                                <div className="block">
-                                    <div className="icon-box">
-                                        <i className="tf-tools"></i>
-                                    </div>
-                                    <div className="content text-center">
-                                        <h3 className="ddd">We're Creative</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="250ms">
-                                <div className="block">
-                                    <div className="icon-box">
-                                        <i className="tf-strategy"></i>
-                                    </div>
-                                    <div className="content text-center">
-                                        <h3>We're Professional</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
-                                <div className="block kill-margin-bottom">
-                                    <div className="icon-box">
-                                        <i className="tf-anchor2"></i>
-                                    </div>
-                                    <div className="content text-center">
-                                        <h3>We're Genius</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <section className="section about-2 padding-0 bg-dark" id="about">
-                    <div className="container-fluid">
-                        <div className="row">
                             <div className="col-lg-6 padding-0 ">
                                 <img className="img-responsive" src="images/about/about-business-man.jpg" alt="" />
                             </div>

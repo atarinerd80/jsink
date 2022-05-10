@@ -5,7 +5,6 @@ import Home from './pages/Home';
 import Nav from './pages/Nav';
 import About from './pages/About';
 import Services from './pages/Services';
-import Testimonial from './pages/Testimonial';
 import Portfolio from './pages/Portfolio';
 import Posts from './pages/Posts';
 import Contact from './pages/Contact';
@@ -15,11 +14,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Nav />
-    <div class="content">
+    <div class="content bg-dark">
       <About />
       <Services />
       <Portfolio />
-      <Testimonial />
       <Posts />
       <Contact />
       <Footer />
