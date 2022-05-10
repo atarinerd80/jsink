@@ -14,14 +14,15 @@ import Footer from './pages/Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    
     <Nav />
-    <About />
-    <Services />
-    <Portfolio />
-    <Testimonial />
-    <Posts />
-    <Contact />
-    <Footer />
+    <div class="content">
+      <About />
+      <Services />
+      <Portfolio />
+      <Testimonial />
+      <Posts />
+      <Contact />
+      <Footer />
+    </div>
   </React.StrictMode>
 );

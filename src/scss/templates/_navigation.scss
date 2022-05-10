@@ -8,6 +8,7 @@
   z-index: 99;
   margin-bottom: 0;
   padding:10px;
+  position: fixed;
   .logo {
     padding: 0;
     height: auto;
@@ -18,7 +19,9 @@
     }
   }
   .navigation-menu {
+    flex-direction: row;
     li {
+      padding: 0 15px;
       &.active {
         a {
           color:$primary-color;
@@ -44,5 +47,14 @@
   }
 }
 
+.navbar-right {
+  margin-left: auto;
+}
 
+.nav-logo {
+  width: 3em;
+}
 
+.content {
+  padding-top: 190px;
+}
