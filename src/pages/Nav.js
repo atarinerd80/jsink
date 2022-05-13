@@ -13,7 +13,6 @@ export class Nav extends React.Component {
                             <ul id="nav" className="nav navbar-nav navigation-menu">
                                 <li><a data-scroll href="#body">Home</a></li>
                                 <li><a data-scroll href="#about">About Us</a></li>
-                                <li><a data-scroll href="#services">Services</a></li>
                                 <li><a data-scroll href="#portfolio">Portfolio</a></li>
                                 <li><a data-scroll href="#contact-us">Contact</a></li>
                             </ul>
