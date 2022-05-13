@@ -11,7 +11,7 @@ export class Home extends React.Component {
                                 <img className="header-image" src="images/logo.png" />
                             </div>
                         </div>
-                        <a href="#about" className="btn btn-transparent">Explore Us</a>
+                        <a href="https://squareup.com/appointments/book/4mun5wvbh9r757/LMMX2Y6ERRVW3/start" target="_blank" className="btn btn-transparent">Book A Consultation</a>
                     </div>
                 </section>
             </> 
