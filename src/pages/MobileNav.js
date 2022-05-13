@@ -21,7 +21,6 @@ export class MobileNav extends React.Component {
                             <Nav className="me-auto">
                                 <Nav.Link eventKey="1" href="#body">Home</Nav.Link>
                                 <Nav.Link eventKey="2" href="#about">About Us</Nav.Link>
-                                <Nav.Link eventKey="3" href="#services">Services</Nav.Link>
                                 <Nav.Link eventKey="4" href="#portfolio">Portfolio</Nav.Link>
                                 <Nav.Link eventKey="5" href="#contact-us">Contact</Nav.Link>
                             </Nav>
